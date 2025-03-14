@@ -16,7 +16,7 @@ export default function () {
           />
         </div>
 
-        <div className="text-x text-left text-gray-600">contanct</div>
+        <div className="text-xl text-left text-gray-600 font-medium">Contact</div>
         <div>
           <TextField
             variant="standard"
